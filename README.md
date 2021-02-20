@@ -1,5 +1,5 @@
 # RPLidar-Based-3d-Scanner
-Modified RPlidar Code for a Raspberry Pi. This code was written by Chris Martin and has been modified to run on a Raspberry Pi. It has only been tested on a Raspberry Pi 3 but should work on other versions. The following programs have remained unchanged:- 
+Modified RPlidar Code for a Raspberry Pi. This code was written by Chris Martin and has been modified to run on a Raspberry Pi. It has only been tested on a Raspberry Pi 3 and a Raspberry Pi 4 (4gb) but should work on other versions. The following programs have remained unchanged:- 
 pylidar.py
 pylidar_protocol.py
 pylidar_serial.py
